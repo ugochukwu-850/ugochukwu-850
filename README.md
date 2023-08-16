@@ -6,11 +6,14 @@ I am a Passionate software developer and tech enthusiast with a flair for buildi
 ### 🌐 Web Developer Extraordinaire<br><br>
 With a keen eye for design and an competitive curiosity for emerging web technologies, I enjoy building seamless web experiences, from crafting intuitive user interfaces to scalable backend systems, I love every aspect of the development .<br><br>
 
-### 🐍 Pythonista & 🦀 Rustacean<br><br>My love for coding languages extends to Python and Rust, I guess that should be __from Python to Rust__ where I've honed my skills in creating efficient, reliable, and secure applications. I'm fascinated by Rust's memory safety, security, and runtime magic whilst amused by Python's versatility, ease of use and OOP system. I'm constantly exploring ways to merge their strengths for optimal results.<br><br>
+### 🐍 Pythonista & 🦀 Rustacean<br><br>
+My love for coding languages extends to Python and Rust, I guess that should be __from Python to Rust__ where I've honed my skills in creating efficient, reliable, and secure applications. I'm fascinated by Rust's memory safety, security, and runtime magic whilst amused by Python's versatility, ease of use and OOP system. I'm constantly exploring ways to merge their strengths for optimal results.<br><br>
 
-### 💡 Sharing Knowledge & Learning Together<br><br>Despite navigating these uncharted waters unchaperoned , my few encounters with communities have reinforced my belief in the pivotal role that groups and collectives play in my personal development. Embracing the power of shared knowledge, I believe that  contributing through blog posts, tutorials, and interactive discussions, I can achieve a personal and  community goal to cultivate an environment of collaboration where every member contributes to collective growth.<br><br>
+### 💡 Sharing Knowledge & Learning Together<br><br>
+Despite navigating these uncharted waters unchaperoned , my few encounters with communities have reinforced my belief in the pivotal role that groups and collectives play in my personal development. Embracing the power of shared knowledge, I believe that  contributing through blog posts, tutorials, and interactive discussions, I can achieve a personal and  community goal to cultivate an environment of collaboration where every member contributes to collective growth.<br><br>
 
-### 🚀 Let's Connect<br><br>I'm always eager to connect with fellow developers, enthusiasts, and professionals. Let's collaborate, exchange ideas, and make our mark on the ever-evolving landscape of technology.<br><br>Connect with me on [LinkedIn](https://www.linkedin.com/in/ugochukwu-chizaram-86458a254/) | Follow me on [Twitter](https://twitter.com/zara_tech006)<br><br>Looking forward to our journey together! 🌟<br>
+### 🚀 Let's Connect<br><br>
+I'm always eager to connect with fellow developers, enthusiasts, and professionals. Let's collaborate, exchange ideas, and make our mark on the ever-evolving landscape of technology.<br><br>Connect with me on [LinkedIn](https://www.linkedin.com/in/ugochukwu-chizaram-86458a254/) | Follow me on [Twitter](https://twitter.com/zara_tech006)<br><br>Looking forward to our journey together! 🌟<br>
 
 
 ## 🌐 Socials:
