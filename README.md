@@ -14,7 +14,9 @@ My love for coding languages extends to Python and Rust, I guess that should be 
 Despite navigating these uncharted waters unchaperoned , my few encounters with communities have reinforced my belief in the pivotal role that groups and collectives play in my personal development. Embracing the power of shared knowledge, I believe that  contributing through blog posts, tutorials, and interactive discussions, I can achieve a personal and  community goal to cultivate an environment of collaboration where every member contributes to collective growth.<br><br>
 
 ### 🚀 Let's Connect<br><br>
-I'm always eager to connect with fellow developers, enthusiasts, and professionals. Let's collaborate, exchange ideas, and make our mark on the ever-evolving landscape of technology.<br><br>Connect with me on [LinkedIn](https://www.linkedin.com/in/ugochukwu-chizaram-86458a254/) | Follow me on [Twitter](https://twitter.com/zara_tech006)<br><br>Looking forward to our journey together! 🌟<br>
+I'm always eager to connect with fellow developers, enthusiasts, and professionals. Let's collaborate, exchange ideas, and make our mark on the ever-evolving landscape of technology.<br><br>Connect with me on [LinkedIn](https://www.linkedin.com/in/ugochukwu-chizaram-86458a254/) | Follow me on [Twitter](https://twitter.com/zara_tech006)<br><br>Looking forward to our journey together! 🌟<br> 
+
+[![](https://visitcount.itsvg.in/api?id=ugochukwu-850&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -43,15 +45,4 @@ I'm always eager to connect with fellow developers, enthusiasts, and professiona
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ugochukwu-850&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ugochukwu-850&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ugochukwu-850&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ugochukwu-850&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ugochukwu-850&icon=5&color=0)](https://visitcount.itsvg.in)
 
