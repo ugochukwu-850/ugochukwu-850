@@ -1,4 +1,8 @@
-# 💫 About Me:
+## 🌐 Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ugochukwu-chizaram-86458a254/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ugochukwuchizaramoku) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zara_tech006) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCHinlvZ_Q4mX_0YW0-t4CEQ) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ugochukwu-850) 
+
+# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=ugochukwu-850&icon=5&color=0)](https://visitcount.itsvg.in)
+
 ## 👋 Hey, I'm Ugochukwu Chizaram,<br><br>
 I am a Passionate software developer and tech enthusiast with a flair for building innovative solutions. I thrive on challenges and take pride in translating complex concepts into clean, maintainable code and most importantly re-useable code. During the course of this interesting journey , I have come to embrace various technologies and tools like programming languages ~ Python, Rust , frameworks , Algorithms and concepts.<br><br>
 
@@ -16,12 +20,6 @@ Despite navigating these uncharted waters unchaperoned , my few encounters with 
 ### 🚀 Let's Connect<br><br>
 I'm always eager to connect with fellow developers, enthusiasts, and professionals. Let's collaborate, exchange ideas, and make our mark on the ever-evolving landscape of technology.<br><br>Connect with me on [LinkedIn](https://www.linkedin.com/in/ugochukwu-chizaram850/) | Follow me on [Twitter](https://twitter.com/zara_tech006)<br><br>Looking forward to our journey together! 🌟<br> 
 
-[![](https://visitcount.itsvg.in/api?id=ugochukwu-850&icon=5&color=0)](https://visitcount.itsvg.in)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ugochukwu-chizaram-86458a254/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ugochukwuchizaramoku) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zara_tech006) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCHinlvZ_Q4mX_0YW0-t4CEQ) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ugochukwu-850) 
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
@@ -35,9 +33,3 @@ I'm always eager to connect with fellow developers, enthusiasts, and professiona
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ugochukwu-850&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ugochukwu-850&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
