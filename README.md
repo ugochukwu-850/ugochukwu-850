@@ -14,7 +14,7 @@ My love for coding languages extends to Python and Rust, I guess that should be 
 Despite navigating these uncharted waters unchaperoned , my few encounters with communities have reinforced my belief in the pivotal role that groups and collectives play in my personal development. Embracing the power of shared knowledge, I believe that  contributing through blog posts, tutorials, and interactive discussions, I can achieve a personal and  community goal to cultivate an environment of collaboration where every member contributes to collective growth.<br><br>
 
 ### 🚀 Let's Connect<br><br>
-I'm always eager to connect with fellow developers, enthusiasts, and professionals. Let's collaborate, exchange ideas, and make our mark on the ever-evolving landscape of technology.<br><br>Connect with me on [LinkedIn](https://www.linkedin.com/in/ugochukwu-chizaram-86458a254/) | Follow me on [Twitter](https://twitter.com/zara_tech006)<br><br>Looking forward to our journey together! 🌟<br> 
+I'm always eager to connect with fellow developers, enthusiasts, and professionals. Let's collaborate, exchange ideas, and make our mark on the ever-evolving landscape of technology.<br><br>Connect with me on [LinkedIn](https://www.linkedin.com/in/ugochukwu-chizaram850/) | Follow me on [Twitter](https://twitter.com/zara_tech006)<br><br>Looking forward to our journey together! 🌟<br> 
 
 [![](https://visitcount.itsvg.in/api?id=ugochukwu-850&icon=5&color=0)](https://visitcount.itsvg.in)
 
@@ -24,13 +24,9 @@ I'm always eager to connect with fellow developers, enthusiasts, and professiona
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
@@ -42,7 +38,6 @@ I'm always eager to connect with fellow developers, enthusiasts, and professiona
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ugochukwu-850&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ugochukwu-850&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ugochukwu-850&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
